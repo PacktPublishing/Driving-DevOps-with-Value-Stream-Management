@@ -9,12 +9,12 @@ This is the code repository for [Driving DevOps with Value Stream Management](ht
 ## What is this book about?
 
 This book covers the following exciting features:
-- Integrate Agile, systems thinking, and lean development to deliver customer-centric value
-- Find out how to choose the most appropriate value stream for your initial and follow-on VSM projects
-- Establish better flows with integrated, automated, and orchestrated DevOps and CI/CD pipelines
-- Apply a proven eight-step VSM methodology to drive lean IT value stream improvements
-- Discover the key strengths of modern VSM tools and their customer use case scenarios
-- Understand how VSM drives DevOps pipeline improvements and value delivery transformations across enterprises
+- Integrate Agile, systems thinking, and lean development to deliver customer-centric value.
+- Find out how to choose the most appropriate value stream for your initial and follow-on VSM projects.
+- Establish better flows with integrated, automated, and orchestrated DevOps and CI/CD pipelines.
+- Apply a proven eight-step VSM methodology to drive lean IT value stream improvements.
+- Discover the key strengths of modern VSM tools and their customer use case scenarios.
+- Understand how VSM drives DevOps pipeline improvements and value delivery transformations across enterprises.
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801078068) today!
 
