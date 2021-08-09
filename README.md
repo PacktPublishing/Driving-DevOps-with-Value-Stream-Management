@@ -36,6 +36,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 brings more than 30 years of practitioner and executive-level experience in applying the methods and tools of information technology (IT) for software development. His roles span IT professional services, executive management, business process reengineering/improvements, CASE tool software product manager, and the sales and marketing of software development and middleware tools.
 In addition, Cecil has directly managed more than 20 enterprise-class IT programs and projects, with the last 16 years having been focused almost exclusively on supporting large federal and commercial health IT programs. He is also the author of the Building Our Digital World (BODW) series of books on software and systems development practices and Scaling Scrum Across Modern Enterprises.
 
-## Other books by the authors
+## Other books by the author
 * [Scaling Scrum Across Modern Enterprises](https://www.packtpub.com/product/scaling-scrum-across-modern-enterprises/9781839216473?utm_source=github&utm_medium=repository&utm_campaign=9781839216473)
 
