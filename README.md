@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
+
 # Driving DevOps with Value Stream Management
 
 <a href="https://www.packtpub.com/product/driving-devops-with-value-stream-management/9781801078061"><img src="https://static.packt-cdn.com/products/9781801078061/cover/smaller" alt="Driving DevOps with Value Stream Management" height="256px" align="right"></a>
